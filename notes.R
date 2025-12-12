@@ -1,3 +1,5 @@
+# Brushing up the basics
+
 i <- 10      # integer
 f <- 11.3    # numeric float/double
 s <- "Hello" # character string
@@ -44,7 +46,6 @@ is.numeric("abc")
 #  instalacao padra: install.packages("nome-do-pacote")
 #  via github: devtools::install_github("nome-do-usuario/nome-do-repositorio")
 #  arquivo local: install.packages("C:/caminho/nome-do-pacote.zip", repos = NULL)
-
 
 # ver funcoes pertencentes ao pacore
 # help(nome_no_pacote) ou escrever nome_pacote:: e apertar <tab>
