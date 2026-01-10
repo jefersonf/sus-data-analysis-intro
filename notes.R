@@ -50,7 +50,7 @@ is.numeric("abc")
 # ver funcoes pertencentes ao pacore
 # help(nome_no_pacote) ou escrever nome_pacote:: e apertar <tab>
 
-# OPCAO 1 (Recomentado - mais simples)
+# OPCAO 1 (Recomendado - mais simples)
 install.packages("tidyverse") # inclui: dplyr, stringr, lubridate, readr, ggplot2 e outros
 install.packages("readxl")    # leitura de arquivos excel
 install.packages("arrow")     # leitura de arquivos parquet
